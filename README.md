@@ -11,5 +11,7 @@ openFrameworks 0074
 
 
 Dependencies are the libraries:
+
 ofxIlda - https://github.com/memo/ofxIlda
+
 ofxEtherdream - https://github.com/memo/ofxEtherdream
